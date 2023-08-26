@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 968386344530334759}
   - component: {fileID: 968386344530334758}
   - component: {fileID: 968386344530334756}
+  - component: {fileID: 2341201923425123819}
   m_Layer: 5
   m_Name: Line
   m_TagString: Untagged
@@ -153,6 +154,19 @@ MonoBehaviour:
   deleteButton: {fileID: 8420678833326451489}
   successfulDrop: 0
   originalLine: {fileID: 0}
+--- !u!114 &2341201923425123819
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 968386344530334760}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c974024d3bc03de41afb8c00c4c9072c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  statementSO: {fileID: 0}
 --- !u!1 &6669297481587013066
 GameObject:
   m_ObjectHideFlags: 0

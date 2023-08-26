@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e2140a9fc0831c489d2e27be8d21702, type: 3}
+  m_Name: Green_14
+  m_EditorClassIdentifier: 
+  line: Uh... I'm pretty sure I saw Blue entering the Kitchen from the Backyard when
+    I was going to the Bathroom.
+  isFalse: 0
+  character: {fileID: 11400000, guid: 064436b7b7002b149878cfbc121d9bca, type: 2}

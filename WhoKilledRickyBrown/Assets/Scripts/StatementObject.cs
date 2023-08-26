@@ -8,10 +8,10 @@ public class StatementObject : MonoBehaviour
     [SerializeField] private StatementSO statementSO;
     private TMP_Text text;
 
-    private void Start()
+    private void Awake()
     {
         text = GetComponent<TMP_Text>();
-        AssignStatement(statementSO);
+        //AssignStatement(statementSO);
     }
 
     public void AssignStatement(StatementSO statement)

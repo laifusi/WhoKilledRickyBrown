@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7e2140a9fc0831c489d2e27be8d21702, type: 3}
   m_Name: Detective_Yellow_4
   m_EditorClassIdentifier: 
-  line: What does it make you wonder?
+  line: Why is that?
   isFalse: 0
   character: {fileID: 0}

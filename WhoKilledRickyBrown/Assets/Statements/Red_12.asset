@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7e2140a9fc0831c489d2e27be8d21702, type: 3}
   m_Name: Red_12
   m_EditorClassIdentifier: 
-  line: Wait, I also saw Blue inside Kitchen, through the window.
+  line: Wait, I also saw Blue inside the Kitchen, through the window.
   isFalse: 0
   character: {fileID: 11400000, guid: 788acfa9569af0348a1d9c6711982069, type: 2}

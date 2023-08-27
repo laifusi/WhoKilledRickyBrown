@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Blue
   m_EditorClassIdentifier: 
   characterName: Blue
-  color: {r: 0.07615252, g: 0.011764714, b: 0.8980392, a: 1}
+  color: {r: 0.09411766, g: 0.054901965, b: 0.62352943, a: 1}

@@ -22,7 +22,7 @@ public class StatementObject : MonoBehaviour
         text.SetText(statementSO.line);
     }
 
-    public bool CheckStatement()
+    public bool StatementIsFalse()
     {
         return statementSO.isFalse;
     }

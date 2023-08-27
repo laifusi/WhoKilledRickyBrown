@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7e2140a9fc0831c489d2e27be8d21702, type: 3}
   m_Name: Blue_9
   m_EditorClassIdentifier: 
-  line: I think I also heard Green and Yellow talking in the hall later.
+  line: But I think I heard Green and Yellow talking in the hall later.
   isFalse: 0
   character: {fileID: 11400000, guid: ff9f31c3e9ed06e42bf2be0ad46c707f, type: 2}
